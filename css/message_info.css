@@ -1,0 +1,10 @@
+.message_info{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 30px;
+}
+
+.message_info p{
+    font-weight: 500;
+}

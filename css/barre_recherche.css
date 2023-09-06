@@ -1,0 +1,38 @@
+.recherche{
+    display: flex;
+    margin-bottom: 16px;
+    height: 50px;
+}
+
+.recherche *{
+    padding: 16px 24px;
+}
+
+/* BOUTON_RECHERCHE */
+.boutton-recherche{
+    border-radius: 0 16px 16px 0px;
+    background-color: #0065FC;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+/* INPUT_RECHERCHE */
+.input{
+    padding-right: 48px;
+    border: 1px solid #F2F2F2;
+    font-size: 16px;
+    overflow: auto;
+}
+
+.input::placeholder{
+    color: black;
+    font-size: 16px;
+    font-weight: 800;
+}

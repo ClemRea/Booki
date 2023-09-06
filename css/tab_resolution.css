@@ -1,0 +1,39 @@
+@media (max-width: 992px) {
+    .nav_lien{
+        flex-basis: 100%;
+        border-bottom: 2px solid #F2F2F2;
+    }
+
+    .nav_lien a:hover{
+        border-bottom: 2px solid #0065FC;
+        border-top-color: transparent;
+    }
+
+    .liste_hotel{
+        flex-direction: column-reverse;
+    }
+
+    .liste_hotel > div{
+        width: auto;
+    }
+
+    .carte_appartement_populaire{
+        height: 135px;
+    }
+
+    .populaire{
+        margin-bottom: 50px;
+    }
+
+    .carte_activites a:not(.small){
+        width: 32%;
+        height: 46%;
+    }
+    .carte_activites img:not(.small img) {
+        height: 75%;
+    }
+    .small{
+        width: 32%;
+        height: 43%;
+    }
+}

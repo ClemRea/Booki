@@ -1,0 +1,9 @@
+.heading h1{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-bottom: 16px;
+}
+
+.heading p{
+    margin-bottom: 16px;
+}

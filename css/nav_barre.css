@@ -1,0 +1,26 @@
+nav a {
+    padding: 32px;
+    border-top: 2px solid transparent;
+}
+
+nav a:hover {
+    border-top: 2px solid #0065FC;
+    color: #0065FC;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.nav_lien{
+    display: flex;
+}
+
+.nav_lien a {
+    flex-basis: 496px;
+    text-align: center;
+}

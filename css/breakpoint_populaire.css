@@ -1,0 +1,21 @@
+@media (max-width:1124px) and (min-width:993px) {
+    .carte_appartement_populaire{
+        height: 100%;
+    }
+
+    .populaire h3{
+        padding: 5px;
+    }
+
+    .populaire_description p{
+        padding: 5px;
+    }
+
+    .populaire h3{
+        margin-bottom: 4px;
+    }
+
+    .carte_appartement_populaire img{
+        width: 46%;
+    }
+}

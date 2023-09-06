@@ -1,0 +1,17 @@
+@media (max-width: 1350px){
+    .medium2 img{
+        height: 90%;
+    }
+}
+
+@media (max-width:1155px){
+    .activites_titre{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1092px){
+    .big2 .activites_titre{
+        margin-top: auto;
+    }
+}
